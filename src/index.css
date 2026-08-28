@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  --primary-color: #001d70;
+  --secondary-color: #0e7bc7;
+}
+
+ul,
+ol,
+li {
+  list-style: none;
+}
+
+button,
+a {
+  transition: all ease-in-out 0.3s;
+}

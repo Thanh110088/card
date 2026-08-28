@@ -1,0 +1,17 @@
+{
+  "products": [],
+  "users": [
+    {
+      "id": 1,
+      "email": "hoang@gmail.com",
+      "fullname": "Nguyen Minh Hoang",
+      "role": "superAdmin"
+    },
+    {
+      "email": "hoang11@gmail.com",
+      "password": "$2a$10$GJn3VLmdV7mMOaUZIlW7xuvf1k2yJ/NhW8Dtdv8LZWRVrchzmOXzu",
+      "role": "superAdmin",
+      "id": 2
+    }
+  ]
+}
